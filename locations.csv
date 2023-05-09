@@ -1,0 +1,15 @@
+id,description,country.id,country.name,country.abbrev,city.id,city.name,city.keyword,state.id,state.name,state.abbrev,state.keyword,school,school_id
+15901,"Berlin, Germany",57.0,Germany,DE,31156.0,Berlin,berlin,,,,,ironhack,10828
+16022,"Mexico City, Mexico",29.0,Mexico,MX,31175.0,Mexico City,mexico-city,,,,,ironhack,10828
+16086,"Amsterdam, Netherlands",59.0,Netherlands,NL,31168.0,Amsterdam,amsterdam,,,,,ironhack,10828
+16088,"Sao Paulo, Brazil",42.0,Brazil,BR,31121.0,Sao Paulo,sao-paulo,,,,,ironhack,10828
+16109,"Paris, France",38.0,France,FR,31136.0,Paris,paris,,,,,ironhack,10828
+16375,"Miami, FL, United States",1.0,United States,US,31.0,Miami,miami,11.0,Florida,FL,florida,ironhack,10828
+16376,"Madrid, Spain",12.0,Spain,ES,31052.0,Madrid,madrid,,,,,ironhack,10828
+16377,"Barcelona, Spain",12.0,Spain,ES,31170.0,Barcelona,barcelona,,,,,ironhack,10828
+16709,"Lisbon, Portugal",28.0,Portugal,PT,31075.0,Lisbon,lisbon,,,,,ironhack,10828
+17233,Online,,,,,,,1.0,Online,Online,online,ironhack,10828
+15704,"San Francisco, CA, United States",1.0,United States,US,13.0,San Francisco,san-francisco,6.0,California,CA,california,app-academy,10525
+15705,"New York City, NY, United States",1.0,United States,US,1507.0,NYC,new-york-city,34.0,New York,NY,new-york,app-academy,10525
+15862,Online,,,,,,,1.0,Online,Online,online,app-academy,10525
+16013,Online,,,,,,,1.0,Online,Online,online,springboard,11035
