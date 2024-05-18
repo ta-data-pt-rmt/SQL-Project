@@ -22,7 +22,7 @@ Your mission is to design, create and populate an appropriate database with info
 
 ## Getting Started
 
-The notebook attached to the project connects to a bootcamp review website (www.switchup.com) and scrapes some information into dataframes. This will be the basis of the information to design your database. Read the script and get a general understanding each function. Comment the code appropriately.
+The notebook attached to the project connects to a bootcamp review website (www.switchup.org) and scrapes some information into dataframes. This will be the basis of the information to design your database. Read the script and get a general understanding each function. Comment the code appropriately.
 
 *   Populate the list of schools with a wider variety of schools (how are you going to get the school ID?)
 
