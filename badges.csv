@@ -1,0 +1,10 @@
+name,keyword,description,school,school_id
+Available Online,available_online,<p>School offers fully online courses</p>,ironhack,10828
+Verified Outcomes,verified_outcomes,<p>School publishes a third-party verified outcomes report</p>,ironhack,10828
+Flexible Classes,flexible_classes,<p>School offers part-time and evening classes</p>,ironhack,10828
+Available Online,available_online,<p>School offers fully online courses</p>,app-academy,10525
+Flexible Classes,flexible_classes,<p>School offers part-time and evening classes</p>,app-academy,10525
+Job Guarantee,job_guarantee,<p>School guarantees job placement</p>,app-academy,10525
+Available Online,available_online,<p>School offers fully online courses</p>,springboard,11035
+Flexible Classes,flexible_classes,<p>School offers part-time and evening classes</p>,springboard,11035
+Job Guarantee,job_guarantee,<p>School guarantees job placement</p>,springboard,11035
