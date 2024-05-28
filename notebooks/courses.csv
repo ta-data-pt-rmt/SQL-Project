@@ -1,0 +1,116 @@
+course_id,school_id,school_name,course_name
+1,10828,ironhack,Cyber Security Bootcamp
+2,10828,ironhack,Cybersecurity Part-Time
+3,10828,ironhack,Data Analytics Bootcamp
+4,10828,ironhack,Data Analytics Part-Time
+5,10828,ironhack,UX/UI Design Bootcamp
+6,10828,ironhack,UX/UI Design Part-Time
+7,10828,ironhack,Web Development Bootcamp
+8,10828,ironhack,Web Development Part-Time
+9,11035,springboard,Cyber Security Career Track
+10,11035,springboard,Data Analytics Career Track
+11,11035,springboard,Data Science Career Track
+12,11035,springboard,Data Science Career Track Prep
+13,11035,springboard,Front-End Web Development
+14,11035,springboard,Introduction to Data Analytics
+15,11035,springboard,Introduction to Design
+16,11035,springboard,Software Engineering Career Track
+17,11035,springboard,Software Engineering Career Track Prep Course
+18,11035,springboard,Software Engineering Foundations to Core
+19,11035,springboard,Tech Sales Career Track
+20,11035,springboard,UI/UX Design Career Track
+21,11035,springboard,UX Career Track
+22,10862,learningfuze,Full Immersion 14-Week Program
+23,10862,learningfuze,LFZ Prep Course
+24,10862,learningfuze,Part Time Comprehensive Program
+25,10862,learningfuze,UI/UX Design
+26,10862,learningfuze,Data Science Part-Time
+27,10505,actualize,Actualize Coding Bootcamp: Full-Time
+28,10505,actualize,Actualize Coding Bootcamp: Part-Time
+29,10505,actualize,Actualize Coding Bootcamp: Online Live
+30,11539,clarusway,AWS Solutions Architect
+31,11539,clarusway,AWS Solutions Architect - Premium Full Time/Part Time
+32,11539,clarusway,AWS Solutions Architect/DevOps Engineer
+33,11539,clarusway,AWS Solutions Architect/DevOps Engineer - Premium Full Time/Part Time without ITF
+34,11539,clarusway,Back End Development
+35,11539,clarusway,Blockchain & Web 3.0 Development
+36,11539,clarusway,Cloud for Machine Learning (Streamlit & Sagemaker)
+37,11539,clarusway,CompTIA Security+ Certificate Training
+38,11539,clarusway,Cyber Security Analyst Professional
+39,11539,clarusway,Cyber Security Operation Center (C-SOC) Experience
+40,11539,clarusway,Data Analytics (Premium)
+41,11539,clarusway,Data Analytics with Prep for DS
+42,11539,clarusway,Data Science
+43,11539,clarusway,Data Science - Premium Full Time/Part Time with Limited Seats
+44,11539,clarusway,Data Science with Prep
+45,11539,clarusway,DevOps Engineer
+46,11539,clarusway,DevOps Engineer - Premium Full Time/Part Time
+47,11539,clarusway,Front End Development
+48,11539,clarusway,Front End Development with IT Fundamentals - Premium Full Time/Part Time with Limited Seats
+49,11539,clarusway,Full Stack Development
+50,11539,clarusway,Full Stack Web Development - Premium Full Time/Part Time with Limited Seats
+51,11539,clarusway,Full Stack Web Development with IT Fundamentals - Premium Full Time/Part Time with Limited Seats
+52,11539,clarusway,Kubernetes CKAD
+53,11539,clarusway,Machine Learning/Deep Learning
+54,11539,clarusway,Machine Learning/Deep Learning (Premium)
+55,11539,clarusway,Natural Language Processing (NLP)
+56,11539,clarusway,React JS Development
+57,11539,clarusway,Salesforce Administrator & Consultant
+58,11539,clarusway,Salesforce Administrator & Developer
+59,11539,clarusway,Salesforce Advanced Flow Course
+60,11539,clarusway,Software Development Engineer in Test (SDET)
+61,10643,codesmith,NYC Onsite Immersive
+62,10643,codesmith,CS Prep
+63,10643,codesmith,Full-Time Remote Software Engineering Immersive
+64,10643,codesmith,JavaScript for Beginners
+65,10643,codesmith,Part-Time Software Engineering Immersive
+66,10683,dataquest,Python for Data Analysis
+67,10683,dataquest,R for Data Analysis
+68,11797,syntax-technologies,Cyber Security Course
+69,11797,syntax-technologies,Data Analytics & Business Intelligence Course
+70,11797,syntax-technologies,SDET Automation Testing Course
+71,10743,evolve-security-academy,Cybersecurity Bootcamp: REMOTE (Live-Online)
+72,10743,evolve-security-academy,OSCP Bootcamp (Live-Online)
+73,10743,evolve-security-academy,Cybersecurity Bootcamp
+74,11282,level-effect,Cyber Defense Analyst Bootcamp
+75,10868,le-wagon,Data Analytics - Full-Time
+76,10868,le-wagon,Data Analytics - Part-Time
+77,10868,le-wagon,Data Engineering - Full-Time
+78,10868,le-wagon,Data Engineering - Part-Time
+79,10868,le-wagon,Data Science & AI - Full-Time
+80,10868,le-wagon,Data Science & AI - Part-Time
+81,10868,le-wagon,Web Development - Full-Time
+82,10868,le-wagon,Web Development - Part-Time
+83,10492,4geeks-academy,Applied AI
+84,10492,4geeks-academy,Cybersecurity
+85,10492,4geeks-academy,Data Science and Machine Learning
+86,10492,4geeks-academy,Ai and Machine Learning Full-Stack Program
+87,10492,4geeks-academy,Full Stack Software Development
+88,10492,4geeks-academy,Full Stack Software Development Part Time
+89,10837,jedha,Cyber Security Essentials
+90,10837,jedha,Cyber Security Fullstack
+91,10837,jedha,Data Analyst Fullstack
+92,10837,jedha,Data Analyst Lead
+93,10837,jedha,Data Essentials
+94,10837,jedha,Data Science - Fullstack
+95,10837,jedha,Data Science - Lead
+96,10853,la-capsule,DevOps Engineer
+97,10853,la-capsule,Fullstack JavaScript Web Developer
+98,10853,la-capsule,Code Essentials
+99,11243,wbs-coding-school,Data Science (full-time)
+100,11243,wbs-coding-school,Data Science (part-time)
+101,11243,wbs-coding-school,Full-Stack Web & App Development (full-time)
+102,11243,wbs-coding-school,Full-Stack Web & App Development (part-time)
+103,11243,wbs-coding-school,UX/UI Product Design (full-time)
+104,11243,wbs-coding-school,Artificial Intelligence for Business (full-time)
+105,11243,wbs-coding-school,Data Analytics
+106,11014,shecodes,SheCodes Basics
+107,11014,shecodes,SheCodes Max
+108,11014,shecodes,SheCodes Plus
+109,11014,shecodes,SheCodes Pro
+110,10697,designlab,Advanced Figma
+111,10697,designlab,Advanced Usability and Accessibility
+112,10697,designlab,AI for Visual Design
+113,10697,designlab,Data-Driven Design
+114,10697,designlab,UX Academy
+115,10697,designlab,UX Academy Foundations
