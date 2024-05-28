@@ -1,0 +1,132 @@
+location_id,school_id,school_name,country_id,country_name,city_id,city_name
+15901,10828,ironhack,57,Germany,31156,Berlin
+16022,10828,ironhack,29,Mexico,31175,Mexico City
+16086,10828,ironhack,59,Netherlands,31168,Amsterdam
+16088,10828,ironhack,42,Brazil,31121,Sao Paulo
+16109,10828,ironhack,38,France,31136,Paris
+16375,10828,ironhack,1,United States,31,Miami
+16376,10828,ironhack,12,Spain,31052,Madrid
+16377,10828,ironhack,12,Spain,31170,Barcelona
+16709,10828,ironhack,28,Portugal,31075,Lisbon
+17233,10828,ironhack,237,Online,31304,Online
+16013,11035,springboard,237,Online,31304,Online
+16712,10862,learningfuze,1,United States,24,Irvine
+16806,10862,learningfuze,1,United States,11,San Diego
+16970,10862,learningfuze,237,Online,31304,Online
+15703,10505,actualize,1,United States,39,Chicago
+16019,10505,actualize,237,Online,31304,Online
+17789,11539,clarusway,237,Online,31304,Online
+16002,10643,codesmith,1,United States,10,Los Angeles
+16328,10643,codesmith,1,United States,1507,NYC
+16595,10643,codesmith,237,Online,31304,Online
+17438,10643,codesmith,1,United States,31234,Temporarily Online
+16378,10683,dataquest,237,Online,31304,Online
+18261,11797,syntax-technologies,237,Online,31304,Online
+15899,10743,evolve-security-academy,237,Online,31304,Online
+16045,10743,evolve-security-academy,1,United States,39,Chicago
+17374,11282,level-effect,237,Online,31304,Online
+15803,10868,le-wagon,20,Australia,31174,Melbourne
+15904,10868,le-wagon,44,Morocco,31119,Casablanca
+15906,10868,le-wagon,60,Argentina,31171,Buenos Aires
+15964,10868,le-wagon,46,Belgium,31125,Brussels
+16039,10868,le-wagon,29,Mexico,31175,Mexico City
+16049,10868,le-wagon,59,Netherlands,31168,Amsterdam
+16106,10868,le-wagon,42,Brazil,31121,Sao Paulo
+16124,10868,le-wagon,12,Spain,31170,Barcelona
+16145,10868,le-wagon,38,France,31124,Bordeaux
+16147,10868,le-wagon,38,France,31128,Lille
+16148,10868,le-wagon,28,Portugal,31075,Lisbon
+16149,10868,le-wagon,35,Indonesia,31169,Bali
+16150,10868,le-wagon,38,France,31130,Nantes
+16274,10868,le-wagon,42,Brazil,31131,Rio de Janeiro 
+16275,10868,le-wagon,38,France,31129,Marseille
+16282,10868,le-wagon,2,Canada,31135,Montreal
+16283,10868,le-wagon,15,China,31108,Shanghai
+16407,10868,le-wagon,48,Japan,31132,Tokyo
+16408,10868,le-wagon,38,France,31106,Lyon
+16765,10868,le-wagon,57,Germany,31156,Berlin
+16767,10868,le-wagon,38,France,31136,Paris
+16776,10868,le-wagon,32,Switzerland,31163,Lausanne
+16800,10868,le-wagon,12,Spain,31052,Madrid
+16805,10868,le-wagon,38,France,31147,Rennes
+16936,10868,le-wagon,56,Singapore,31154,Singapore
+16967,10868,le-wagon,61,England,31176,London
+17314,10868,le-wagon,34,United Arab Emirates,31093,Dubai
+17395,10868,le-wagon,57,Germany,31158,Munich
+17476,10868,le-wagon,22,Chile,31067,Santiago
+17765,10868,le-wagon,38,France,31239,Nice
+17772,10868,le-wagon,57,Germany,31254,Cologne
+18077,10868,le-wagon,171,Mauritius,31246,Mauritius
+18117,10868,le-wagon,237,Online,31304,Online
+18128,10868,le-wagon,32,Switzerland,31082,Zurich
+18194,10868,le-wagon,28,Portugal,31102,Porto
+18195,10868,le-wagon,17,South Africa,31100,Cape Town
+18295,10868,le-wagon,38,France,31191,Toulouse
+18321,10868,le-wagon,20,Australia,31110,Sydney
+16054,10492,4geeks-academy,1,United States,31,Miami
+16758,10492,4geeks-academy,58,Venezuela,31159,Caracas
+17370,10492,4geeks-academy,12,Spain,31052,Madrid
+17805,10492,4geeks-academy,1,United States,33,Orlando
+17806,10492,4geeks-academy,18,Costa Rica,31236,San Jose
+17811,10492,4geeks-academy,33,Uruguay,31089,Montevideo
+18220,10492,4geeks-academy,12,Spain,31170,Barcelona
+18223,10492,4geeks-academy,39,Italy,31107,Milan
+18224,10492,4geeks-academy,39,Italy,31180,Rome
+18225,10492,4geeks-academy,57,Germany,31222,Hamburg
+18226,10492,4geeks-academy,57,Germany,31156,Berlin
+18227,10492,4geeks-academy,25,Ireland,31099,Dublin
+18228,10492,4geeks-academy,28,Portugal,31075,Lisbon
+18229,10492,4geeks-academy,57,Germany,31158,Munich
+18231,10492,4geeks-academy,22,Chile,31067,Santiago
+18232,10492,4geeks-academy,30,Colombia,31078,Bogota
+18233,10492,4geeks-academy,29,Mexico,31175,Mexico City
+18234,10492,4geeks-academy,60,Argentina,31171,Buenos Aires
+18236,10492,4geeks-academy,1,United States,806,Panama City
+18237,10492,4geeks-academy,196,Peru,31256,Lima
+18238,10492,4geeks-academy,113,Ecuador,31235,Quito
+18239,10492,4geeks-academy,83,Bolivia,31300,La Paz
+18241,10492,4geeks-academy,2,Canada,31152,Toronto
+18242,10492,4geeks-academy,12,Spain,31298,Malaga
+18370,10492,4geeks-academy,237,Online,31304,Online
+18371,10492,4geeks-academy,1,United States,36,Atlanta
+18372,10492,4geeks-academy,1,United States,81,Houston
+18373,10492,4geeks-academy,1,United States,39,Chicago
+18374,10492,4geeks-academy,1,United States,10,Los Angeles
+18375,10492,4geeks-academy,1,United States,3619,New  York
+18663,10492,4geeks-academy,1,United States,84,Austin
+16607,10837,jedha,38,France,31136,Paris
+16608,10837,jedha,38,France,31106,Lyon
+17434,10837,jedha,237,Online,31304,Online
+18251,10837,jedha,11,United Kingdom,31176,London
+18252,10837,jedha,38,France,31128,Lille
+18253,10837,jedha,38,France,31124,Bordeaux
+18254,10837,jedha,38,France,31129,Marseille
+18255,10837,jedha,38,France,31130,Nantes
+18308,10837,jedha,38,France,31191,Toulouse
+18309,10837,jedha,38,France,31301,Montpellier
+18310,10837,jedha,38,France,31147,Rennes
+18311,10837,jedha,38,France,31190,Strasbourg
+18312,10837,jedha,46,Belgium,31125,Brussels
+18313,10837,jedha,46,Belgium,31302,Luxembourg
+18314,10837,jedha,32,Switzerland,31245,Geneva
+18315,10837,jedha,32,Switzerland,31163,Lausanne
+18316,10837,jedha,2,Canada,31135,Montreal
+18317,10837,jedha,105,Côte d'Ivoire,31303,Abidjan
+18318,10837,jedha,236,Tunisia,31182,Tunis
+18319,10837,jedha,44,Morocco,31119,Casablanca
+18362,10837,jedha,1,United States,3619,New  York
+15863,10853,la-capsule,38,France,31136,Paris
+17050,10853,la-capsule,38,France,31106,Lyon
+17450,10853,la-capsule,38,France,31129,Marseille
+18098,10853,la-capsule,46,Belgium,31241,Bruxelles
+18136,10853,la-capsule,38,France,31239,Nice
+18137,10853,la-capsule,38,France,31289,Monaco
+18269,10853,la-capsule,237,Online,31304,Online
+18270,10853,la-capsule,38,France,31128,Lille
+18271,10853,la-capsule,38,France,31124,Bordeaux
+17206,11243,wbs-coding-school,57,Germany,31156,Berlin
+17654,11243,wbs-coding-school,237,Online,31304,Online
+16914,11014,shecodes,237,Online,31304,Online
+16915,11014,shecodes,28,Portugal,31075,Lisbon
+16916,11014,shecodes,28,Portugal,31102,Porto
+15816,10697,designlab,237,Online,31304,Online

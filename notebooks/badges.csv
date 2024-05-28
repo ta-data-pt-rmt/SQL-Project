@@ -1,0 +1,40 @@
+badge_id,school_id,school_name,badge_name,keyword,description
+1,10828,ironhack,Available Online,available_online,School offers fully online courses
+2,10828,ironhack,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report
+3,10828,ironhack,Flexible Classes,flexible_classes,School offers part-time and evening classes
+4,11035,springboard,Available Online,available_online,School offers fully online courses
+5,11035,springboard,Flexible Classes,flexible_classes,School offers part-time and evening classes
+6,11035,springboard,Job Guarantee,job_guarantee,School guarantees job placement
+7,10862,learningfuze,Available Online,available_online,School offers fully online courses
+8,10862,learningfuze,Flexible Classes,flexible_classes,School offers part-time and evening classes
+9,10505,actualize,Available Online,available_online,School offers fully online courses
+10,10505,actualize,Flexible Classes,flexible_classes,School offers part-time and evening classes
+11,11539,clarusway,Available Online,available_online,School offers fully online courses
+12,11539,clarusway,Flexible Classes,flexible_classes,School offers part-time and evening classes
+13,10643,codesmith,Available Online,available_online,School offers fully online courses
+14,10643,codesmith,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report
+15,10643,codesmith,Flexible Classes,flexible_classes,School offers part-time and evening classes
+16,10683,dataquest,Available Online,available_online,School offers fully online courses
+17,10683,dataquest,Flexible Classes,flexible_classes,School offers part-time and evening classes
+18,11797,syntax-technologies,Available Online,available_online,School offers fully online courses
+19,11797,syntax-technologies,Flexible Classes,flexible_classes,School offers part-time and evening classes
+20,10743,evolve-security-academy,Available Online,available_online,School offers fully online courses
+21,10743,evolve-security-academy,Flexible Classes,flexible_classes,School offers part-time and evening classes
+22,11282,level-effect,Available Online,available_online,School offers fully online courses
+23,11282,level-effect,Flexible Classes,flexible_classes,School offers part-time and evening classes
+24,10868,le-wagon,Available Online,available_online,School offers fully online courses
+25,10868,le-wagon,Flexible Classes,flexible_classes,School offers part-time and evening classes
+26,10492,4geeks-academy,Available Online,available_online,School offers fully online courses
+27,10492,4geeks-academy,Flexible Classes,flexible_classes,School offers part-time and evening classes
+28,10837,jedha,Available Online,available_online,School offers fully online courses
+29,10837,jedha,Flexible Classes,flexible_classes,School offers part-time and evening classes
+30,10853,la-capsule,Available Online,available_online,School offers fully online courses
+31,10853,la-capsule,Flexible Classes,flexible_classes,School offers part-time and evening classes
+32,11243,wbs-coding-school,Available Online,available_online,School offers fully online courses
+33,11243,wbs-coding-school,Flexible Classes,flexible_classes,School offers part-time and evening classes
+34,11243,wbs-coding-school,Job Guarantee,job_guarantee,School guarantees job placement
+35,11014,shecodes,Available Online,available_online,School offers fully online courses
+36,11014,shecodes,Flexible Classes,flexible_classes,School offers part-time and evening classes
+37,10697,designlab,Available Online,available_online,School offers fully online courses
+38,10697,designlab,Flexible Classes,flexible_classes,School offers part-time and evening classes
+39,10697,designlab,Job Guarantee,job_guarantee,School guarantees job placement
